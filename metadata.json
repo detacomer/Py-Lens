@@ -1,0 +1,8 @@
+{
+  "name": "PyExplain",
+  "description": "Transcribe y explica código Python línea por línea de forma sencilla a partir de texto o imágenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
